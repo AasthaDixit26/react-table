@@ -12,7 +12,7 @@ html{
 table{
   margin:5rem auto;
   border-radius: 2rem;
-  border:1rem hidden #443c68;
+  border:1rem hidden #fbff00;
   box-shadow: 0 0 0 1px black;
   overflow: hidden;
   max-width: 80rem;
@@ -24,11 +24,11 @@ li,p,a,td{
 }
 thead{
   font-size:1.8rem;
-  background-color: #443C68;
-  color: #fff;
+  background-color: #fbff00;
+  color: #f90505;
 }
 th,td{
-  border: 1px solid #443C68;
+  border: 1px solid #fbff00;
   min-width: 30rem;
   padding: 1.5rem;
   line-height: 1.7;
